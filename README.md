@@ -1,4 +1,4 @@
-# best-chinese-prompt
+# Best Chinese Prompt 最棒的中文提示词大全
 AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
 
 ## [最新的更新和更好的体验请访问飞书文档](https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m)
