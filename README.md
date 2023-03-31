@@ -1,5 +1,11 @@
 # best-chinese-prompt
 AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
+
+最新的更新和更好的体验请访问飞书文档
+
+https://qddmercny4.feishu.cn/sheets/shtcnMklYu0WsXEDUXXanrSEB2m
+
+
 | 版权所有：K-Render，转发请注明出处  |           |          |           |              |         |        |           |           |
 | ------------- | ----------- | -------- | ------------------- | --------------- | ------------------- | -------------- | --------- | ------ |
 | ChatGPT中文提示词微信讨论群： 讨论分享最新经验与资讯 包括chatGPT NewBing 未来的文心一言 | ![img](https://qddmercny4.feishu.cn/space/api/box/stream/download/asynccode/?code=NGRmZDMyYTMyZTQwMGZlYmQ2Y2EyN2NiOGQxOWIyMzBfNUJ5UnNBQ1VjcFNCdU5tZ0czOTlWZG5IWjllY1JJVjZfVG9rZW46Tmh6UGJ2OWVPbzVpbkZ4dkRTMmNzbXN0bnNnXzE2ODAyNTQ3MDg6MTY4MDI1ODMwOF9WNA) | 群里2600人了，不进来看看？                                   | AI绘画讨论群  分享讨论AI绘画的提示词和参数设置               | ![img](https://qddmercny4.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2Y4NDIxODU1MzQyMjVlYjk0NzM5ZjExMWE2ODE0OWRfcDg5YUVlclZHN1dzSVdXcGplNnBtemh4Q2N5NXR1ZUZfVG9rZW46TlNyTmJoeUVZb2k3WDR4YlVZOGM1dUxabmtkXzE2ODAyNTQ3MDg6MTY4MDI1ODMwOF9WNA) |                                                              |                                                              |           |                                                              |
